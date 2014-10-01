@@ -1,0 +1,20 @@
+{
+  "name": "virk-datahub-browserg",
+  "version": "0.0.1",
+  "authors": [
+    "Nicolai Willems <niwil90@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
